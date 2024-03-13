@@ -1,0 +1,12 @@
+[submodule "Q4"]
+	path = Q4
+	url = https://github.com/kaijun123/code-challenge-Q4
+[submodule "Q6"]
+	path = Q6
+	url = https://github.com/kaijun123/code-challenge-Q6
+[submodule "bear"]
+	path = bear
+	url = ./bear
+[submodule "Q5"]
+	path = Q5
+	url = https://github.com/kaijun123/code-challenge-bear
